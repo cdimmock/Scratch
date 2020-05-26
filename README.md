@@ -7,6 +7,8 @@ Scratch
 Photoshop
 Git Bash
 
-This is a link to the game: https://scratch.mit.edu/projects/396636140/
+The object of the game is to save the Hippodragon from the Businessmen. You do this by controlling the the hippoDragon Sprite with the arrow keys, collecting Energy Balls, and avoiding the Businessmen.
 
-This is a link to a video greeting for other people in CS50: https://youtu.be/AMgajGYkW5w
+I had fun making it and I hope you have fun playing it!
+
+Here is a link to the game: https://scratch.mit.edu/projects/396636140/
