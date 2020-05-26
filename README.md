@@ -1,5 +1,4 @@
-# Flight of the Hippodragon
-by hungryN3rd
+# Flight of the Hippodragon by hungryN3rd
 
 This is a side scroller game I made using Scratch.
 
